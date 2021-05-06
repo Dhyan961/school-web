@@ -21,7 +21,18 @@ h4 {
     font-size: 15px;
     width: 350;
 }
-
-.image {
+#campus_life img{
     height: 300px;
+    width: 300px;
+    text-align: center;
+    margin: auto auto;
+}
+.ach_head i{
+    float: right;
+}
+.ach_head{
+    padding: 5px;
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 15px;
 }
